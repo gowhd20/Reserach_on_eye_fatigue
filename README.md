@@ -10,4 +10,7 @@ From this reserach I would like to know whether or not the reading matarial has 
 
 # Result in brief
 1. e-book imposes higher tiredness on eyes
-2. reading text in general increases rate of eye blinks 
+2. reading text in general increases rate of eye blinks
+
+# Project duration
+Sep 2014 ~ Dec 2014
